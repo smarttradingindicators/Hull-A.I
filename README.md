@@ -1,4 +1,4 @@
-# 🚀 Hull A.I | smarttradingindicators.com
+# 🚀 Hull A.I
 
 ![Hull A.I](Hull%201D.png)
 
