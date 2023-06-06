@@ -43,6 +43,13 @@ Trading involves risk. Hull A.I is a supplementary tool designed to aid your tra
 
 We're eager to hear from you! For questions, feedback, or suggestions, please contact us at support@smarttradingindicators.com.
 
+## 📱 Social Media
+
+Follow us on our social media platforms for the latest updates and insights:
+
+- [Instagram: @smarttradingindicators](https://instagram.com/smarttradingindicators?igshid=OGQ5ZDc2ODk2ZA==)
+- [Twitter: @smartindicators](https://twitter.com/smartindicators)
+
 ## 🔒 Note on Code Access
 
 The code for Hull A.I is proprietary and not publicly accessible. For inquiries about the code or if you need further information, don't hesitate to reach out at support@smarttradingindicators.com. We appreciate your understanding.
